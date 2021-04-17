@@ -1,0 +1,20 @@
+C:\Users\TF039\source\repos\parcial2\parcial2\obj\Debug\parcial2.csprojAssemblyReference.cache
+C:\Users\TF039\source\repos\parcial2\parcial2\obj\Debug\parcial2.Form1.resources
+C:\Users\TF039\source\repos\parcial2\parcial2\obj\Debug\parcial2.Properties.Resources.resources
+C:\Users\TF039\source\repos\parcial2\parcial2\obj\Debug\parcial2.csproj.GenerateResource.cache
+C:\Users\TF039\source\repos\parcial2\parcial2\obj\Debug\parcial2.csproj.CoreCompileInputs.cache
+C:\Users\TF039\source\repos\parcial2\parcial2\bin\Debug\parcial2.exe.config
+C:\Users\TF039\source\repos\parcial2\parcial2\bin\Debug\parcial2.exe
+C:\Users\TF039\source\repos\parcial2\parcial2\bin\Debug\parcial2.pdb
+C:\Users\TF039\source\repos\parcial2\parcial2\obj\Debug\parcial2.exe
+C:\Users\TF039\source\repos\parcial2\parcial2\obj\Debug\parcial2.pdb
+C:\Users\RHINO VS OJITOS\Downloads\parcial2\parcial2\parcial2\bin\Debug\parcial2.exe.config
+C:\Users\RHINO VS OJITOS\Downloads\parcial2\parcial2\parcial2\bin\Debug\parcial2.exe
+C:\Users\RHINO VS OJITOS\Downloads\parcial2\parcial2\parcial2\bin\Debug\parcial2.pdb
+C:\Users\RHINO VS OJITOS\Downloads\parcial2\parcial2\parcial2\obj\Debug\parcial2.csprojAssemblyReference.cache
+C:\Users\RHINO VS OJITOS\Downloads\parcial2\parcial2\parcial2\obj\Debug\parcial2.Form1.resources
+C:\Users\RHINO VS OJITOS\Downloads\parcial2\parcial2\parcial2\obj\Debug\parcial2.Properties.Resources.resources
+C:\Users\RHINO VS OJITOS\Downloads\parcial2\parcial2\parcial2\obj\Debug\parcial2.csproj.GenerateResource.cache
+C:\Users\RHINO VS OJITOS\Downloads\parcial2\parcial2\parcial2\obj\Debug\parcial2.csproj.CoreCompileInputs.cache
+C:\Users\RHINO VS OJITOS\Downloads\parcial2\parcial2\parcial2\obj\Debug\parcial2.exe
+C:\Users\RHINO VS OJITOS\Downloads\parcial2\parcial2\parcial2\obj\Debug\parcial2.pdb
